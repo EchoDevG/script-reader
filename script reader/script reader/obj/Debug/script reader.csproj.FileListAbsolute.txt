@@ -1,0 +1,10 @@
+C:\Users\s2118569\OneDrive - NCG\Computer Science\C# programs\script reader\script reader\bin\Debug\script reader.exe.config
+C:\Users\s2118569\OneDrive - NCG\Computer Science\C# programs\script reader\script reader\bin\Debug\script reader.exe
+C:\Users\s2118569\OneDrive - NCG\Computer Science\C# programs\script reader\script reader\bin\Debug\script reader.pdb
+C:\Users\s2118569\OneDrive - NCG\Computer Science\C# programs\script reader\script reader\obj\Debug\script reader.csprojResolveAssemblyReference.cache
+C:\Users\s2118569\OneDrive - NCG\Computer Science\C# programs\script reader\script reader\obj\Debug\script_reader.Form1.resources
+C:\Users\s2118569\OneDrive - NCG\Computer Science\C# programs\script reader\script reader\obj\Debug\script_reader.Properties.Resources.resources
+C:\Users\s2118569\OneDrive - NCG\Computer Science\C# programs\script reader\script reader\obj\Debug\script reader.csproj.GenerateResource.Cache
+C:\Users\s2118569\OneDrive - NCG\Computer Science\C# programs\script reader\script reader\obj\Debug\script reader.csproj.CoreCompileInputs.cache
+C:\Users\s2118569\OneDrive - NCG\Computer Science\C# programs\script reader\script reader\obj\Debug\script reader.exe
+C:\Users\s2118569\OneDrive - NCG\Computer Science\C# programs\script reader\script reader\obj\Debug\script reader.pdb
