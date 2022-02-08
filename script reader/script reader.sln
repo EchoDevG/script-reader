@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "script reader", "script reader\script reader.csproj", "{BA215DEA-A573-4B34-96F7-0CBC7DD7A992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA215DEA-A573-4B34-96F7-0CBC7DD7A992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA215DEA-A573-4B34-96F7-0CBC7DD7A992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA215DEA-A573-4B34-96F7-0CBC7DD7A992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA215DEA-A573-4B34-96F7-0CBC7DD7A992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24D3A907-D665-444A-B628-E50A4AF0A1E7}
+	EndGlobalSection
+EndGlobal
